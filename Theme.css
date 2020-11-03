@@ -1,9 +1,9 @@
+@import url("https://raw.githack.com/ciendy/Hardstyle/main/Bot.css");
 /*
  ┌————————————————————┐
  │     Variables      │
  └————————————————————┘
 */
-@import url(https://raw.githack.com/ciendy/Hardstyle/main/Bot.css);
  
 html {
     --yellow-green-gradient: linear-gradient(hsl(125,50%,35%), hsl(125,50%,30%));
