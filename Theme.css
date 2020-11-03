@@ -3,7 +3,7 @@
  │     Variables      │
  └————————————————————┘
 */
-@import url("https://github.com/ciendy/Hardstyle/blob/main/Bot.css");
+@import url(https://github.com/ciendy/Hardstyle/blob/main/Bot.css);
  
 html {
     --yellow-green-gradient: linear-gradient(hsl(125,50%,35%), hsl(125,50%,30%));
