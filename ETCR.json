@@ -1,0 +1,45 @@
+{
+    "room": "EdmTrapChillRoom",
+    "author": "Ciendy",
+    "icon": null,
+    "css": "https://raw.githack.com/ciendy/edm-trap-chill-room/main/Theme.css",
+    "rules": {
+        "allowAutorespond": true,
+        "allowAutowoot": true,
+        "allowAutojoin": true,
+        "allowAutograb": true,
+        "allowSmartVote": true,
+        "allowEmotes": true,
+        "allowShowingMehs": true,
+        "forceSmartVote": false
+    },
+    "ccc": {
+        "admin": null,
+        "ambassador": null,
+        "host": "#F4467B",
+        "cohost": "#C42E3B",
+        "manager": "#AC76FF",
+        "bouncer": "#3083FF",
+        "rdj": "#33CCFF",
+        "subscriber": null,
+        "silversubscriber": null,
+        "friend": null,
+        "user": null
+    },
+    "images": {
+        "background": "",
+        "playback": null,
+        "admin": null,
+        "ambassador": null,
+        "host": "",
+        "cohost": "",
+        "manager": "",
+        "bouncer": "",
+        "rdj": "",
+        "subscriber": null,
+        "silversubscriber": null
+    },
+    "emotes": {
+    	"emote_name": null
+    }
+}
