@@ -29,7 +29,7 @@ html {
     display: none;
 }
 #playback .background {
-    background: url('https://i.imgur.com/XaaNbMx.png') !important;
+    background: url('') !important;
     width: 521px; height: 292px;
     left: -19px;
     background-size: cover !important;
@@ -40,7 +40,7 @@ html {
 /*p3 fix*/
 .room-background:before{
 content: " ";
-background: url(https://i.imgur.com/FFpjfD4.jpg) no-repeat;
+background: url() no-repeat;
 position:absolute;
 height: 100%;
 width: 100%;
