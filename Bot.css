@@ -3,15 +3,22 @@
  │     Bot d(-_-)b    │
  └————————————————————┘
 */
-#chat [data-cid^='42136069-'] {
-    border-left: rgba(40, 120, 60, 0.7) 3px solid !important;
-    background: linear-gradient(to right, rgba(19, 194, 181, 0.27)0,rgba(40, 120, 60, 0.3) 100%) !important;
-    box-shadow: none !important;
+#chat-messages .id-42136069 .badge-box {
+    width: 30px;
+    height: 30px;
+    transition: 0.5s;
 }
+
+    #chat-messages .id-42136069 .badge-box:hover {
+        width: 65px;
+        height: 65px;
+        transition: 0.5s;
+    }
+
     /*User Badge*/
     #user-rollover.id-42136069 .badge-box i.bdg,
     #chat-messages .id-42136069 .badge-box i.bdg {
-        background-image: url("https://static-cdn.jtvnw.net/jtv_user_pictures/b6617b5f-a688-4f2c-bee2-6f7fbc01b917-profile_image-300x300.png");
+        background-image: url("https://i.imgur.com/2nJm45k.png");
         background-size: cover;
         border-radius: 7px;
         width: 100%;
