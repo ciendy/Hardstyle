@@ -1,8 +1,8 @@
 {
-    "room": "ETC-Room",
+    "room": "Hardstyle",
     "author": "Ciendy",
     "icon": null,
-    "css": "https://raw.githack.com/ciendy/etc-room/main/Theme.css",
+    "css": "https://raw.githack.com/ciendy/hardstyle/main/Theme.css",
     "rules": {
         "allowAutorespond": true,
         "allowAutowoot": true,
