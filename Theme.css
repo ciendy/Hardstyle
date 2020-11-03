@@ -38,7 +38,7 @@ html {
     background-size: cover !important;
 }
 .room-background {
-    background-image: url() !important;
+    background-image: url(https://i.imgur.com/b8fFe00.jpg) !important;
 }
 /*p3 fix*/
 .room-background:before{
