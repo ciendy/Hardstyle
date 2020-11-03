@@ -1,0 +1,224 @@
+/*
+ ┌————————————————————┐
+ │   Valuable users   │
+ └————————————————————┘
+ */
+/* Ciendy */
+ [data-cid^="3424833-"] .badge-box .bdg {
+     background-image: url("https://i.imgur.com/AqlZ8lD.gif") !important;
+     background-repeat: round !important;
+     background-size: 30px !important;
+ }
+ #user-rollover.id-3424833 .badge-box .bdg {
+     border-radius: 5px !important;
+     background-image: url("https://i.imgur.com/AqlZ8lD.gif") !important;
+     background-repeat: round !important;
+     background-size: 30px !important;
+ }
+ /* Ciendy */
+
+/* Krekouš */
+ [data-cid^="5658276-"] .badge-box .bdg {
+     border-radius: 6px !important;
+     background-image: url("http://i.imgur.com/PiQqaS1.gif") !important;
+     background-repeat: round !important;
+     background-size: 30px !important;
+ }
+ #user-rollover.id-5658276 .badge-box .bdg {
+     border-radius: 8px !important;
+     background-image: url("http://i.imgur.com/PiQqaS1.gif") !important;
+     background-repeat: round !important;
+     background-size: 30px !important;
+ }
+ /* Timowh */
+
+/* Freyr */
+ [data-cid^="4405644-"] .badge-box .bdg {
+     border-radius: 6px !important;
+     background-image: url("http://i.imgur.com/lLqiUUB.gif") !important;
+     background-repeat: round !important;
+     background-size: 30px !important;
+ }
+ #user-rollover.id-4405644 .badge-box .bdg {
+     border-radius: 8px !important;
+     background-image: url("http://i.imgur.com/lLqiUUB.gif") !important;
+     background-repeat: round !important;
+     background-size: 30px !important;
+ }
+/* Hover */
+[data-cid^="4405644-"] .badge-box .bdg:hover {
+	background-image: url("https://static-cdn.jtvnw.net/emoticons/v1/14023/3.0") !important;
+ }
+#user-rollover.id-4405644 .badge-box .bdg:hover {
+	background-image: url("https://static-cdn.jtvnw.net/emoticons/v1/14023/3.0") !important;
+ }
+/* Hover */
+ /* Ciendy */
+
+/* - */
+ [data-cid^="3425830-"] .badge-box .bdg {
+     background-image: url("") !important;
+     background-repeat: round !important;
+     background-size: 30px !important;
+ }
+ #user-rollover.id-3425830 .badge-box .bdg {
+     border-radius: 5px !important;
+     background-image: url("https://i.imgur.com/ggAqWAA.png") !important;
+     background-repeat: round !important;
+     background-size: 30px !important;
+ }
+ /* - */
+
+
+
+/*old staff*/
+/* -
+ [data-cid^="3968700-"] .badge-box .bdg {
+     background-image: url("http://i.imgur.com/n7dlMKO.png") !important;
+     background-repeat: round !important;
+     background-size: 30px !important;
+ }
+ #user-rollover.id-3968700 .badge-box .bdg {
+     background-image: url("http://i.imgur.com/n7dlMKO.png") !important;
+     background-repeat: round !important;
+     background-size: 30px !important;
+ }
+  -
+/* -
+ [data-cid^="3469419-"] .badge-box .bdg {
+     border-radius: 6px !important;
+     background-image: url("http://i.imgur.com/eh2VJbv.gif") !important;
+     background-repeat: round !important;
+     background-size: 30px !important;
+ }
+ #user-rollover.id-3469419 .badge-box .bdg {
+     border-radius: 8px !important;
+     background-image: url("http://i.imgur.com/eh2VJbv.gif") !important;
+     background-repeat: round !important;
+     background-size: 30px !important;
+ }
+ - */
+
+
+
+/*
+ ┌————————————————————┐
+ │     Theme devs     │
+ └————————————————————┘
+- 4405644
+- 4613422
+- 4412452
+*/
+#user-lists .list .user.id-4405644 .name:after,
+#chat [data-cid^='4405644-'] .un:after,
+#user-lists .list .user.id-4613422 .name:after,
+#chat [data-cid^='4613422-'] .un:after,
+#user-lists .list .user.id-4412452 .name:after,
+#chat [data-cid^='4412452-'] .un:after {
+    content: 'CSS';
+    display: inline-block;
+    margin: 0 0 0 5px; 
+	padding: 0 3px;
+    color: #009A80;
+    background: linear-gradient(rgba(10,10,10,.5), rgba(0,0,0,.5));
+    border-radius: 4px;
+    font-size: 10px;
+}
+#user-lists .list .user.id-4405644:hover .name:after,
+#chat [data-cid^='4405644-'] .un:hover:after,
+#user-lists .list .user.id-4613422:hover .name:after,
+#chat [data-cid^='4613422-'] .un:hover:after,
+#user-lists .list .user.id-4412452:hover .name:after,
+#chat [data-cid^='4412452-'] .un:hover:after {
+    background: linear-gradient(rgba(0, 154, 141, 0.2), rgba(0, 102, 102, 0.2));
+}
+
+/*-*/
+#user-rollover.id-4412452 .meta{
+height: 146px !important;
+}
+#user-rollover.id-4412452 .meta:before{
+    content: 'CSS';
+    top: 120px;
+    left: 109px;
+    position: absolute;
+	display: inline-block; 
+	padding: 0 3px;
+    color: #009A80;
+    background: linear-gradient(rgba(0, 154, 141, 0.2), rgba(0, 102, 102, 0.2));
+    border-radius: 4px;
+    font-size: 10px;
+}
+#user-rollover.id-4412452 .meta:after{
+    content: 'Theme devs';
+    color: #808691;
+    position: absolute;
+    top: 117px;
+    left: 134px;
+}
+/*-*/
+#user-rollover.id-4613422 .meta{
+height: 170px !important;
+}
+#user-rollover.id-4613422 .meta:before{
+    content: 'CSS';
+    top: 145px;
+    left: 109px;
+    position: absolute;
+	display: inline-block; 
+	padding: 0 3px;
+    color: #009A80;
+    background: linear-gradient(rgba(0, 154, 141, 0.2), rgba(0, 102, 102, 0.2));
+    border-radius: 4px;
+    font-size: 10px;
+}
+#user-rollover.id-4613422 .meta:after{
+    content: 'Theme devs';
+    color: #808691;
+    position: absolute;
+    top: 143px;
+    left: 134px;
+}
+/*-*/
+#user-rollover.id-4405644 .meta{
+    height: 190px !important;
+}
+#user-rollover.id-4405644:before{
+    content: 'CSS';
+    top: 170px;
+    left: 109px;
+    position: absolute;
+	display: inline-block; 
+	padding: 0 3px;
+    color: #009A80;
+    background: linear-gradient(rgba(0, 154, 141, 0.2), rgba(0, 102, 102, 0.2));
+    border-radius: 4px;
+    font-size: 10px;
+}
+#user-rollover.id-4405644:after{
+    content: 'Theme devs';
+    color: #808691;
+    position: absolute;
+    top: 167px;
+    left: 134px;
+}
+
+
+/*
+ ┌————————————————————┐
+ │      Donators      │
+ └————————————————————┘
+ */
+/*-*/
+ [data-cid^="6184698-"] .badge-box .bdg {
+     border-radius: 6px !important;
+     background-image: url("https://i.imgur.com/lkMKZ5o.gif") !important;
+     background-repeat: round !important;
+     background-size: 30px !important;
+ }
+ #user-rollover.id-6184698 .badge-box .bdg {
+     border-radius: 8px !important;
+     background-image: url("https://i.imgur.com/lkMKZ5o.gif") !important;
+     background-repeat: round !important;
+     background-size: 30px !important;
+ }
