@@ -3,31 +3,31 @@
  │     Bot d(-_-)b    │
  └————————————————————┘
 */
-#chat [data-cid^='13720951-'] {
+#chat [data-cid^='42136069-'] {
     border-left: rgba(40, 120, 60, 0.7) 3px solid !important;
     background: linear-gradient(to right, rgba(19, 194, 181, 0.27)0,rgba(40, 120, 60, 0.3) 100%) !important;
     box-shadow: none !important;
 }
-#chat [data-cid^='13720951-'] .badge-box .bdg {
+#chat [data-cid^='42136069-'] .badge-box .bdg {
     border-radius: 5px !important;
     background-image: url("https://i.imgur.com/2nJm45k.png") !important;
     background-repeat: round !important;
     background-size: 30px !important;
 }
 
-#user-rollover.id-13720951 .badge-box .bdg {
+#user-rollover.id-42136069 .badge-box .bdg {
     border-radius: 5px !important;
     background-image: url("") !important;
     background-repeat: round !important;
     background-size: 30px !important;
 }
-#chat [data-cid^='13720951-'] .un,
-#chat [data-cid^='13720951-'] .timestamp {
+#chat [data-cid^='42136069-'] .un,
+#chat [data-cid^='42136069-'] .timestamp {
     color: #5A6 !important;
 }
-#user-lists .list .user.id-13720951 .name:after,
-#chat [data-cid^='13720951-'] .un:after,
-#user-rollover.id-13720951 .username:after {
+#user-lists .list .user.id-42136069 .name:after,
+#chat [data-cid^='42136069-'] .un:after,
+#user-rollover.id-42136069 .username:after {
     content: 'BOT';
     display: inline-block;
     margin: 0 0 0 5px; padding: 0 3px;
@@ -37,7 +37,7 @@
     border-radius: 4px;
     font-size: 10px;
 }
-#user-lists .list .user.id-13720951:hover .name:after,
-#chat [data-cid^='13720951-'] .un:hover:after {
+#user-lists .list .user.id-42136069:hover .name:after,
+#chat [data-cid^='42136069-'] .un:hover:after {
     background: linear-gradient(rgba(0, 153, 85, 0.2), rgba(0, 101, 56, 0.2));
 }
