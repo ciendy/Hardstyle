@@ -3,6 +3,8 @@
  │     Variables      │
  └————————————————————┘
 */
+@import "https://github.com/ciendy/Hardstyle/blob/main/Bot.css";
+ 
 html {
     --yellow-green-gradient: linear-gradient(hsl(125,50%,35%), hsl(125,50%,30%));
     --yellow-greener-gradient: linear-gradient(hsl(125,50%,50%), hsl(125,50%,40%));
@@ -29,7 +31,7 @@ html {
     display: none;
 }
 #playback .background {
-    background: url('') !important;
+    background: url('https://i.imgur.com/XaaNbMx.png') !important;
     width: 521px; height: 292px;
     left: -19px;
     background-size: cover !important;
@@ -40,7 +42,7 @@ html {
 /*p3 fix*/
 .room-background:before{
 content: " ";
-background: url() no-repeat;
+background: url(https://i.imgur.com/FFpjfD4.jpg) no-repeat;
 position:absolute;
 height: 100%;
 width: 100%;
