@@ -1,0 +1,59 @@
+/* Xuxa */
+#user-lists .list.room .user.role-manager.id-3427443 .name {
+    color: #FF8C00 !important;
+}
+/* Xuxa */
+
+/* Staff */
+.icon-chat-ambassador + span {
+    color: #FF8C00 !important;
+}
+.icon-chat-host + span {
+    color: #228B22 !important;
+}
+.icon-chat-cohost + span {
+    color: #228B22 !important;
+}
+.icon-chat-manager + span {
+    color: #68B354 !important;
+}
+.icon-chat-bouncer + span {
+    color: #68B354 !important;
+}
+.icon-chat-dj + span {
+    color: #68B354 !important;
+}
+.icon-chat-ambassador {
+	background: url("https://rawgit.com/Satskhi/EDTRCS/master/images/BA.png") !important;
+}
+.icon-chat-host {
+	background: url("https://i.imgur.com/ruhJ2vp.png") !important;
+}
+.icon-chat-cohost {
+	background: url("https://i.imgur.com/ruhJ2vp.png") !important;
+}
+.icon-chat-manager {
+	background: url("https://i.imgur.com/Y6ycQMl.png") !important;
+}
+.icon-chat-bouncer {
+	background: url("https://i.imgur.com/mdsqNED.png") !important;
+}
+.icon-chat-dj {
+	background: url("https://i.imgur.com/xuEg1lP.png") !important;
+}
+/* Staff */
+
+/*new roles n stuff*/
+/*promoter and plot*/
+.is-plot .name,
+#user-rollover.is-plot .info .role span,
+#chat .from.plot .un,
+.is-promoter .name,
+#user-rollover.is-promoter .info .role span,
+#chat .from.promoter .un {
+        color: #8694b2;
+}
+.icon-chat-plot,
+.icon-chat-promoter{
+       filter: grayscale(100%);
+}
