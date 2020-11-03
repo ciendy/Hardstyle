@@ -1,1 +1,1 @@
-# edc-room
+# etc-room
