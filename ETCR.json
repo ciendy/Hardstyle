@@ -1,8 +1,8 @@
 {
-    "room": "EdmTrapChillRoom",
+    "room": "ETC-Room",
     "author": "Ciendy",
     "icon": null,
-    "css": "https://raw.githack.com/ciendy/edm-trap-chill-room/main/Theme.css",
+    "css": "https://raw.githack.com/ciendy/etc-room/main/Theme.css",
     "rules": {
         "allowAutorespond": true,
         "allowAutowoot": true,
