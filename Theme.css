@@ -31,15 +31,6 @@ html {
 #playback .background img {
     display: none;
 }
-#playback .background {
-    background: url('https://cdn.discordapp.com/attachments/769673559693197372/773615123420020756/dva.png') !important;
-    width: 521px; height: 292px;
-    left: -19px;
-    background-size: cover !important;
-}
-.room-background {
-    background-image: url(https://cdn.discordapp.com/attachments/769673559693197372/773614511000649736/pozadi.jpg) !important;
-}
 /*p3 fix*/
 .room-background:before{
 content: " ";
