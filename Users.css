@@ -24,7 +24,7 @@
 
 /* Krekouš */
  [data-cid^="4849016-"] .badge-box .bdg {
-    background-image: url("https://elivyks.7m.pl/gif.gif");
+    background-image: url("https://i.imgur.com/8zWi3sE.mp4");
     background-size: cover;
     width: 110%;
     height: 110%;
@@ -35,7 +35,7 @@
 }
 
  #user-rollover.id-4849016 .badge-box .bdg {
-    background-image: url("https://elivyks.7m.pl/gif.gif");
+    background-image: url("https://i.imgur.com/8zWi3sE.mp4");
     background-size: cover;
     width: 100%;
     height: 100%;
@@ -47,13 +47,13 @@
  /* - */
 
 /* Freyr */
- [data-cid^="4405644-"] .badge-box .bdg {
+ [data-cid^="5266523-"] .badge-box .bdg {
      border-radius: 6px !important;
      background-image: url("http://i.imgur.com/lLqiUUB.gif") !important;
      background-repeat: round !important;
      background-size: 30px !important;
  }
- #user-rollover.id-4405644 .badge-box .bdg {
+ #user-rollover.id-5266523 .badge-box .bdg {
      border-radius: 8px !important;
      background-image: url("http://i.imgur.com/lLqiUUB.gif") !important;
      background-repeat: round !important;
